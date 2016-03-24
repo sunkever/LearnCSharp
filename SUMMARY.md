@@ -4,4 +4,5 @@
 * [第一章，继承](chapter1.md)
    * [继承](jiCheng.md)
    * [虚方法](xuFangFa.md)
+   * 隐藏方法
 
